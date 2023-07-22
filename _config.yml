@@ -84,8 +84,8 @@ author:
   avatar           : "profile.png"
   bio              : "态度决定高度"
   location         : "安徽省合肥市经开区九龙路111号"
-  employer         :
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "安徽大学大数据与统计学院"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=KpSTy3sAAAAJ"
   email            : "22176@ahu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
