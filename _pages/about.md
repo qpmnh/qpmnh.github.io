@@ -20,7 +20,7 @@ redirect_from:
 Education
 ======
 
-* 2021.08 ~ 2022.08 CSC联合培养
+* 2021.08 ~ 2022.08   &nbsp &nbsp &nbsp CSC联合培养
 
 [RobotLearn Team](http://xavirema.eu/), 
 法国国家信息与自动化研究所
