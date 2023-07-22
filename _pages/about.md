@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 出生年月：1993.09
+
 籍贯：安徽马鞍山市
+
 政治面貌：中共党员
 
 A data-driven personal website
