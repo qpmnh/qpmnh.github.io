@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to My Homepage!"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,14 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Personnal Information
-======
-
 **出生年月：** 1993.09
 
 **籍    贯：** 安徽省马鞍山市
 
 **政治面貌：** 中共党员
+
+**就职单位：** 安徽大学大数据与统计学院
 
 
 
