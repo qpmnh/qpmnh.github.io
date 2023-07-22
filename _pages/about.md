@@ -22,7 +22,7 @@ Education
 
 * 2021.08 ~ 2022.08 CSC联合培养
 
-法国国家信息与自动化研究所
+&emsp;&emsp;法国国家信息与自动化研究所
 ([INRIA](https://baike.baidu.com/item/%E6%B3%95%E5%9B%BD%E5%9B%BD%E5%AE%B6%E4%BF%A1%E6%81%AF%E4%B8%8E%E8%87%AA%E5%8A%A8%E5%8C%96%E7%A0%94%E7%A9%B6%E6%89%80/2912086)),
 [RobotLearn Team](http://xavirema.eu/)
 
