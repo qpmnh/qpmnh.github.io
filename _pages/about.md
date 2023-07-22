@@ -14,7 +14,7 @@ redirect_from:
 **政治面貌：** 中共党员
 
 **工作单位：** [安徽大学大数据与统计学院](http://ds.ahu.edu.cn/)
-
+* 职称:
 
 
 Education
