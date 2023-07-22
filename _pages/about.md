@@ -10,7 +10,7 @@ redirect_from:
 
 * 出生年月： 1993.09
 
-* 籍    贯： 安徽省马鞍山市
+* 籍&nbsp;&nbsp;&nbsp;贯： 安徽省马鞍山市
 
 * 政治面貌： 中共党员
 
@@ -20,7 +20,7 @@ redirect_from:
 Education
 ======
 
-* 2021.08 ~ 2022.08   &nbsp &nbsp &nbsp CSC联合培养
+* 2021.08 ~ 2022.08 CSC联合培养
 
 [RobotLearn Team](http://xavirema.eu/), 
 法国国家信息与自动化研究所
