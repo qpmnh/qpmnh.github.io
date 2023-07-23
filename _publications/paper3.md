@@ -2,7 +2,7 @@
 title: "Hanyu Xuan; Zhiliang Wu; Jian Yang; Yan Yan; Xavier Alameda-Pineda ; A Proposal-based
 Paradigm for Self-supervised Sound Source Localization in Videos"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/paper3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2015-10-01
 venue: 'Journal 1'
