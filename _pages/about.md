@@ -16,7 +16,7 @@ redirect_from:
 
 * 工作单位： [安徽大学大数据与统计学院](http://ds.ahu.edu.cn/)
 
-(School of Big Data and Statistics, Anhui University)
+&emsp;&emsp;&emsp;&emsp;(School of Big Data and Statistics, Anhui University)
 
 * E-mail：22176@ahu.edu.cn &emsp; 1209656621@qq.com
 
