@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "指导学生"
-permalink: /studens/
+permalink: /students/
 author_profile: true
 redirect_from:
   - /resume
