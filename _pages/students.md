@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Studens"
+title: "指导学生"
 permalink: /studens/
 author_profile: true
 redirect_from:
