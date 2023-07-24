@@ -1,8 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "CVPR'2022(CCF A类)"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Hanyu Xuan; Zhiliang Wu; Jian Yang; Yan Yan; Xavier Alameda-Pineda ; A Proposal-based
+Paradigm for Self-supervised Sound Source Localization in Videos, 2022 IEEE/CVF Conference on
+Computer Vision and Pattern Recognition (CVPR), New Orleans/USA, 2022-6-18至2022-6-24'
 date: 2009-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
