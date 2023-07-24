@@ -16,6 +16,7 @@ redirect_from:
 * 计算机视觉
 * 医学影像智能诊断
 
+
 学术兼职 (审稿人) :
 ---
 * CVPR’2022
@@ -27,3 +28,4 @@ redirect_from:
 在研项目：
 ---
 * Coming soon ...
+22
