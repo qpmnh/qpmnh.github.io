@@ -22,7 +22,7 @@ redirect_from:
 &emsp;&emsp;2).车道偏离检测第二
 
 &emsp;&emsp;3).车道保持第三
-&emsp;&emsp;&emsp;&emsp;4).车道线检测第一
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;4).车道线检测第一
 
 * 2016年度北京联合大学优秀研究生干部 &emsp; & &emsp; 校研究生会副主席
 
