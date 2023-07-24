@@ -1,6 +1,6 @@
 ---
-title: ooooo
-collection: publications
+title: 
+collection: 
 permalink: /publication/2010-10-01-paper-title-number-2
 ---
 sssssssssssssssssss
