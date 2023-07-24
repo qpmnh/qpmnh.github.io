@@ -15,7 +15,7 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "Awards and Honors"
+   - title: "Awards and Honors"
     url: /awards/
 
     - title: "Research"
