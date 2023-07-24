@@ -18,9 +18,7 @@ redirect_from:
 
 学术兼职 (审稿人) :
 ---
-* CVPR’2022
-* ECCV’2020
-* AAAI’2020
+* CVPR’2022 &emsp;&emsp; ECCV’2020 &emsp;&emsp; AAAI’2020
 * IEEE Trans. on Multimedia
 * NeuroComputing
 
