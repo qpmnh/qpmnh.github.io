@@ -1,13 +1,12 @@
 ---
 permalink: /markdown/
-title: ""
+title: "所获奖项和荣誉"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
-所获奖项和荣誉:
----
+
 
 * 研究生国家奖学金
 
