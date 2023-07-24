@@ -1,6 +1,6 @@
 ---
 collection: publications
-permalink: /publication/paper2
+permalink: /publication/2010-10-01-paper-title-number-2
 ---
 sssssssssssssssssss
 
