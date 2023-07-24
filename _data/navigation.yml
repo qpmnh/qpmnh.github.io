@@ -3,6 +3,12 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Awards and Honors"
+    url: /awards/
+
+  - title: "Research"
+    url: /research/
+
   # - title: "Talks"
   #   url: /talks/    
 
@@ -14,12 +20,6 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-    
-   - title: "Awards and Honors"
-    url: /awards/
-
-    - title: "Research"
-    url: /research/
 
     # - title: "Students"
     # url: /students/
