@@ -1,5 +1,5 @@
 ---
-permalink: /markdown/
+permalink: /awards/
 title: "所获奖项和荣誉"
 author_profile: true
 redirect_from: 
