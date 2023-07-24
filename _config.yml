@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hanyu Xuan / 宣寒宇"
+title                    : "Hanyu Xuan"
 title_separator          : "-"
 name                     : &name "Hanyu Xuan"
 description              : &description "personal homework"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hanyu Xuan"
+  name             : "宣寒宇"
   avatar           : "xhy-3.png"
   bio              : "态度决定高度"
   location         : "安徽省合肥市经开区九龙路111号"
