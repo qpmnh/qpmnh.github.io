@@ -1,5 +1,5 @@
 ---
-title: "CVPR-2022 (CCF-A)"
+title: "CVPR'2022 (CCF-A)"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Hanyu Xuan, Zhiliang Wu, Jian Yang, Yan Yan, Xavier Alameda-Pineda. A proposal-based paradigm for Self-supervised Sound Source Localization in Videos. CVPR’2022'
