@@ -14,7 +14,7 @@ redirect_from:
 
 * 政治面貌： 中共党员
 
-* 职&emsp;&emsp;务： 讲师/数据科学与大数据技术系主任
+* 职&emsp;&emsp;务： 讲师/硕导/数据科学与大数据技术系主任
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;([School of Big Data and Statistics](http://ds.ahu.edu.cn/), Anhui University)
 
